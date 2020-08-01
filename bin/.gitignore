@@ -1,0 +1,6 @@
+Debug
+intermediate
+*.exe
+*.iobj
+*.ipdb
+*.pdb
